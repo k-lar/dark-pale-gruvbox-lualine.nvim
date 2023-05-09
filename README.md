@@ -26,13 +26,19 @@ Replace mode:
 Use your favorite nvim package manager.  
 
 Packer:
-```console
-use "k_lar/dark-pale-gruvbox-lualine.nvim"
+```lua
+use "k-lar/dark-pale-gruvbox-lualine.nvim"
+
+-- Backup link on gitlab
+use 'https://gitlab.com/k_lar/dark-pale-gruvbox-lualine.nvim'
 ```
 
 Plug:
-```console
-Plug "k_lar/dark-pale-gruvbox-lualine.nvim"
+```vim
+Plug "k-lar/dark-pale-gruvbox-lualine.nvim"
+
+" Backup link on gitlab
+Plug "https://gitlab.com/k_lar/dark-pale-gruvbox-lualine.nvim"
 ```
 
 ## Usage
