@@ -27,7 +27,7 @@ dark_pale_gruvbox.insert = {
 }
 dark_pale_gruvbox.visual = {
   a = {bg = colors.orange, fg = colors.black, gui = 'bold'},
-  b = {bg = colors.gray, fg = colors.black},
+  b = {bg = colors.gray, fg = colors.white},
   c = {bg = colors.inactivegray, fg = colors.black},
 }
 dark_pale_gruvbox.replace = {
