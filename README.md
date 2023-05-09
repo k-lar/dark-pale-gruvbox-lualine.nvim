@@ -13,7 +13,7 @@ Insert mode:
 ![insert_mode](https://gitlab.com/k_lar/dark-pale-gruvbox-lualine.nvim/uploads/50534a2580b0bdd4f22b2e5c8a3cb5d5/insert_mode.png)
 
 Visual mode:  
-![visual_mode](https://gitlab.com/k_lar/dark-pale-gruvbox-lualine.nvim/uploads/ed84a3e47e4023177eb49a823fe06c45/visual_mode.png)
+![visual_mode](https://gitlab.com/k_lar/dark-pale-gruvbox-lualine.nvim/uploads/d4f2c8941d8c5881eb161f4c1263b5e9/visual_mode.png)
 
 Command mode:  
 ![command_mode](https://gitlab.com/k_lar/dark-pale-gruvbox-lualine.nvim/uploads/d38c1a102f5106ea1f7fc1e1934b5e66/command_mode.png)
